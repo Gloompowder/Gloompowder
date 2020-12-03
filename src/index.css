@@ -11,3 +11,201 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+ul {
+  text-decoration: none;
+  list-style: none;
+  text-emphasis-style: none;
+}
+
+.Nav {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  height: auto;
+}
+
+.Nav ul{
+  float: center;
+  display: inline-flex;
+  margin: 0;
+  align-content: space-evenly;
+}
+
+.logo {
+  float: left;
+}
+
+.Des h1 {
+  padding-top: 10px;
+}
+
+.Dev h1 {
+  padding-top: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.Home {
+  text-align: center;
+  align-content: center;
+  margin: auto;
+}
+
+.Des {
+  text-align: center;
+  align-content: center;
+  margin: auto;
+}
+
+.resume-button {
+  border-radius: 15px;
+  border-color: black;
+  border-style: solid;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  margin-top: 10px;
+  margin-right: 30%;
+  margin-left: 30%;
+}
+
+.resume-button:hover {
+  border-radius: 15px;
+  border-color: black;
+  border-style: solid;
+  background-color: white;
+  color: black;
+  padding: 5px;
+  margin-top: 10px;
+}
+
+.portrait {
+  width: auto;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.Home {
+  padding: 15% 30%;
+}
+
+.Nav {
+  align-content: space-between;
+  position: fixed;
+  width: 100%;
+  height: auto;
+}
+
+.Nav a {
+  color: white;
+  font-size: medium;
+  padding: 10px;
+}
+
+ul {
+  height: auto;
+  padding: 10px;
+  margin: 33%;
+}
+
+.Nav a:hover {
+  color: black;
+  font-size: medium;
+  padding: 10% 10px;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.Contact {
+  padding: 5% 15%;
+  justify-content: space-between;
+}
+
+.contact-button {
+  border-radius: 15px;
+  border-color: black;
+  border-style: solid;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  margin-top: 10px;
+  margin-right: 30%;
+  margin-left: 30%;
+}
+
+.contact-button:hover {
+  border-radius: 15px;
+  border-color: black;
+  border-style: solid;
+  background-color: white;
+  color: black;
+  padding: 5px;
+  margin-top: 10px;
+}
+
+.Des {
+  padding: 5% 15%;
+}
+
+.Dev {
+  padding: 5% 15%;
+}
+
+.Nav button {
+  border-radius: 15px;
+  border-color: white;
+  border-style: solid;
+  background-color: black;
+  padding: 5px;
+  margin: 0 20px;
+  float: right;
+}
+
+
+.Nav button:hover {
+  border-radius: 15px;
+  border-color: white;
+  border-style: solid;
+  background-color: white;
+  padding: 5px;
+  margin: 0 20px;
+  color: black;
+  float:right;
+}
+.Contact form input [type="button"]{
+  border-radius: 15px;
+  border-color: black;
+  border-style: solid;
+  background-color: black;
+  color: white;
+  padding: 5px
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: black;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.IconLink {
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
