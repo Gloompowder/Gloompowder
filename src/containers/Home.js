@@ -10,7 +10,7 @@ class Home extends React.Component {
                 <h1 className = "intro" >Hello! My Name is William</h1>
                 <p className="about-me">
                     I'm a New York City based web-developer and designer.
-                    I recently graduated from a high-intensity software development bootcamp designed to push students towards job-readiness. You may reach me through the links below!
+                    I recently graduated from a high-intensity software development bootcamp designed to push students towards job-readiness.
                     </p>
                 <IconLink />
                 <button
