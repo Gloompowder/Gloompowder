@@ -6,7 +6,7 @@ class DevProject extends React.Component {
     render(){
         return(
             <div className="DevProject">
-                
+                <devCard devData={devData}/>
             </div>
         )
     }

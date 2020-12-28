@@ -1,4 +1,4 @@
-devData = {
+var devData = {
     data1:{
     id:1,
     name: "Hack the Planet",
