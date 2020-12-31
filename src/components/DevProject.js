@@ -1,12 +1,13 @@
 import React from 'react'
-import devData from '../components/DevData'
-import devCard from '../components/DevCard'
+import DevData from '../components/DevData'
+import DevCard from '../components/DevCard'
 
 class DevProject extends React.Component {
     render(){
+        console.log(DevData)
         return(
             <div className="DevProject">
-                <devCard devData={devData}/>
+                <DevCard data={DevData}/>
             </div>
         )
     }

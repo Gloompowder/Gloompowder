@@ -6,9 +6,9 @@ class DesProject extends React.Component {
     render(){
         return(
             <div className="DesProject">
-                {DesData.map(data => {
+                {DesData.map(data => 
                 <DesCard desdata={data}/>
-                })}
+                )}
             </div>
         )
     }

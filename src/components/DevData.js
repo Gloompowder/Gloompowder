@@ -1,4 +1,4 @@
-var devData = [{
+var DevData = [{
     id:1,
     name: "Hack the Planet",
     demo: "https://planet-hack/herokuapp.com",
@@ -13,4 +13,4 @@ var devData = [{
     }
 ]
 
-export default devData
+export default DevData

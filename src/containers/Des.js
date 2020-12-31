@@ -5,7 +5,7 @@ class Des extends React.Component {
     render(){
         return(
             <div className="Des">
-                <h1>Design Projects</h1>
+                <h1 className='Des-title'>Design Projects</h1>
                 <DesProject/>
             </div>
         )

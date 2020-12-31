@@ -7,7 +7,7 @@ class Dev extends React.Component {
     render(){
         return(
             <div className="Dev">
-                <h1>Coding Projects</h1>
+                <h1 className='Dev-title'>Coding Projects</h1>
                     {/* <FilterDev/> */}
                 <DevProject/>
             </div>
