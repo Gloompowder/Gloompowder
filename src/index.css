@@ -183,7 +183,8 @@ ul {
   flex-direction: row;
   flex-wrap: wrap;
   align-content: space-evenly;
-  display: ;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .desCard {
