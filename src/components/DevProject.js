@@ -4,10 +4,11 @@ import DevCard from '../components/DevCard'
 
 class DevProject extends React.Component {
     render(){
-        console.log(DevData)
         return(
             <div className="DevProject">
-                <DevCard data={DevData}/>
+                {DevData.map(data => 
+                <DevCard Devdata={data}/>
+                )}
             </div>
         )
     }

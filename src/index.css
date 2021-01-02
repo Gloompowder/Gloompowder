@@ -172,11 +172,11 @@ ul {
 }
 
 .Des {
-  padding: 5% 15%;
+  padding: 5% 10%;
 }
 
 .Dev {
-  padding: 5% 15%;
+  padding: 5% 10%;
 }
 
 .DesProject {
@@ -188,14 +188,14 @@ ul {
 }
 
 .desCard {
+  margin-bottom: 5%;
   background-color: rgb(255, 255, 255);
-  min-width: 250px;
-  min-height: 250px;
+  width: 100%;
+  height: auto;
   border-radius: 2.5%;
   flex-wrap: wrap;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 20%;
   margin:2.5%;
   color: rgb(94, 94, 94);
 }
