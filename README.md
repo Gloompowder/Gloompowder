@@ -2,7 +2,7 @@
 ## Hello, My name is Gloompowder 
 ## Call me Gloom for short
 
-### I am an early career software developer :seedling:
+### I am a fullstack software developer :laptop:
 
 - Ruby
 - Javascript
