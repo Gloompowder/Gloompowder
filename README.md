@@ -1,6 +1,6 @@
 
-## Hello, My name is Gloompowder 
-## Call me Gloom for short
+## Hello, My name is William
+## Call me Will for short
 
 ### I am a fullstack software developer 💻
 
@@ -25,10 +25,12 @@ I am a tech analyst at Infosys working on the CBRE account. I learned coding on 
 - tailwind
 
 ### I am an early career software developer :trophy:
--Graphic Design
--Adobe Creative Cloud
--Marketing
--Content Creation 
+- Frontend Engineering
+- Backend Engineering
+- Graphic Design
+- Adobe Creative Cloud
+- Marketing
+- Content Creation 
 
 
 
