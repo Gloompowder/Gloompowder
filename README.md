@@ -23,6 +23,8 @@ I am a tech analyst at Infosys working on the CBRE account. I learned coding on 
 ### I am currently learning the following :brain:
 - django
 - tailwind
+- flutter
+- firebase
 
 ### I am a software developer :trophy:
 - Frontend Engineering
